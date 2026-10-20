@@ -1,0 +1,6 @@
+{
+  "key.paintclient.menu": "Open Paint menu",
+  "key.paintclient.overlay": "Open HUD editor",
+  "key.paintclient.panic": "Panic (disable all modules)",
+  "key.category.paintclient.main": "Paint Client"
+}

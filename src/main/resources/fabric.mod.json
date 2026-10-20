@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "paintclient",
+  "version": "${version}",
+  "name": "Paint Client",
+  "description": "Modular client-side utility mod with a ClickGUI, a HUD layout editor, ESP, Base Finder, Freecam and more. Loaded through the normal Fabric mod loader.",
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["client.paint.mc.PaintClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
